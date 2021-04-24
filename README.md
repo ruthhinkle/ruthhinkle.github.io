@@ -12,7 +12,7 @@ Check out the [demo site](https://ruthhinkle.github.io/project-2/index.html) sit
   Stations are color-coded on the map to indicate how many bikes are availabe. Look first for Full Stations where you'll have your pick of bike. Low stations have less than 5 bikes available, so avoid them unless your party is small and you're very close! You can't pick up bikes at Empty Stations, but you can drop bikes off there when you are done!
 </details>
 
-<details> <summary markdown="span"><h3> 🚲 Find Your Bike</h3></summary>
+<details> <summary markdown="span"><strong> 🚲 Find Your Bike</strong></summary>
   Stations are color-coded on the map to indicate how many bikes are availabe. Look first for Full Stations where you'll have your pick of bike. Low stations have less than 5 bikes available, so avoid them unless your party is small and you're very close! You can't pick up bikes at Empty Stations, but you can drop bikes off there when you are done!
 </details>
 
